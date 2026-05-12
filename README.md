@@ -1,3 +1,10 @@
+# 생성형 모델인 GAN(Generative Adversarial Networks)의 여러가지 모델을 pytoch로 구현
+
+'[프로젝트] 손톱 모세혈관 영상 기반 비침습 백혈구 수치 측정 시스템'에서 Event Camera로 촬영한 모세혈관 및 백혈구의 이미지를 재생성하기 위해서 참고했습니다. <br>
+
+[WBC-프로젝트](https://github.com/lee990324/wbc-counting-project) <br>
+
+
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
 **This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
