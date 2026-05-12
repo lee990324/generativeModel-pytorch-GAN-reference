@@ -4,7 +4,7 @@
 
 [WBC-프로젝트](https://github.com/lee990324/wbc-counting-project) <br>
 
-
+#
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
 **This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
